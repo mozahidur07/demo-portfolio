@@ -28,7 +28,7 @@ A modern and responsive portfolio website built with React, JavaScript, Vite, an
 
 ## Getting Started
 
-- [Demo View](https://demo-portfolio.vercel.app/)
+- [Click for a Demo View](https://demo-portfolio-mozahidur.vercel.app/)
 
 ### Prerequisites
 
@@ -39,7 +39,7 @@ A modern and responsive portfolio website built with React, JavaScript, Vite, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mozahidur/demo-portfolio.git
+   git clone https://github.com/mozahidur07/demo-portfolio.git
    cd portfolio
    ```
 
